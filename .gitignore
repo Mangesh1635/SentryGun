@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Large datasets and generated outputs
+dataset/
+evidence/
+runs/
